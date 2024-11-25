@@ -10,3 +10,16 @@ C:\Users\LUGOTECH_RD_4\source\repos\Facturas\Application\obj\Debug\net8.0\refint
 C:\Users\LUGOTECH_RD_4\source\repos\Facturas\Application\obj\Debug\net8.0\Application.pdb
 C:\Users\LUGOTECH_RD_4\source\repos\Facturas\Application\obj\Debug\net8.0\ref\Application.dll
 C:\Users\LUGOTECH_RD_4\source\repos\Facturas\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\alexi\Source\Repos\Facturas-Back-end\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\alexi\Source\Repos\Facturas-Back-end\Application\bin\Debug\net8.0\Application.dll
+C:\Users\alexi\Source\Repos\Facturas-Back-end\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\alexi\Source\Repos\Facturas-Back-end\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\alexi\Source\Repos\Facturas-Back-end\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Source\Repos\Facturas-Back-end\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\alexi\Source\Repos\Facturas-Back-end\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\alexi\Source\Repos\Facturas-Back-end\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Source\Repos\Facturas-Back-end\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Users\alexi\Source\Repos\Facturas-Back-end\Application\obj\Debug\net8.0\Application.dll
+C:\Users\alexi\Source\Repos\Facturas-Back-end\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\alexi\Source\Repos\Facturas-Back-end\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\alexi\Source\Repos\Facturas-Back-end\Application\obj\Debug\net8.0\ref\Application.dll

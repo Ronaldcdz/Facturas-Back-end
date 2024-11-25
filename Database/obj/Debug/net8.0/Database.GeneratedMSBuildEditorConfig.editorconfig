@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Database
-build_property.ProjectDir = C:\Users\LUGOTECH_RD_4\source\repos\Facturas\Database\
+build_property.ProjectDir = C:\Users\alexi\source\repos\Facturas-Back-end\Database\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

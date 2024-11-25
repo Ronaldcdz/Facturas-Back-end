@@ -4591,23 +4591,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LUGOTECH_RD_4\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\alexi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LUGOTECH_RD_4\\source\\repos\\Facturas\\Facturas\\Facturas.csproj",
+      "projectUniqueName": "C:\\Users\\alexi\\source\\repos\\Facturas-Back-end\\Facturas\\Facturas.csproj",
       "projectName": "Facturas",
-      "projectPath": "C:\\Users\\LUGOTECH_RD_4\\source\\repos\\Facturas\\Facturas\\Facturas.csproj",
-      "packagesPath": "C:\\Users\\LUGOTECH_RD_4\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LUGOTECH_RD_4\\source\\repos\\Facturas\\Facturas\\obj\\",
+      "projectPath": "C:\\Users\\alexi\\source\\repos\\Facturas-Back-end\\Facturas\\Facturas.csproj",
+      "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexi\\source\\repos\\Facturas-Back-end\\Facturas\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\LUGOTECH_RD_4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4615,15 +4611,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\LUGOTECH_RD_4\\source\\repos\\Facturas\\Database\\Database.csproj": {
-              "projectPath": "C:\\Users\\LUGOTECH_RD_4\\source\\repos\\Facturas\\Database\\Database.csproj"
+            "C:\\Users\\alexi\\source\\repos\\Facturas-Back-end\\Database\\Database.csproj": {
+              "projectPath": "C:\\Users\\alexi\\source\\repos\\Facturas-Back-end\\Database\\Database.csproj"
             }
           }
         }
@@ -4673,7 +4668,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
